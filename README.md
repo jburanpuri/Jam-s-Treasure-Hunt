@@ -12,6 +12,6 @@ The game can be run only on Windows. It will currently only render all assets pr
 monitors at 1080p. Just click on the “My Project.exe” file and the game should start. 
 
 
-##What are the controls? 
+## What are the controls? 
 The only control in this game is a left mouse click. Click the mouse button to release the rope 
 and pick up objects. 
