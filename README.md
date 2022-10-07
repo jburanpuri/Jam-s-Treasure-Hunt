@@ -1,4 +1,5 @@
 # Jam’s Treasure Hunt – README FILE 
+### NOTE: This is just the code for the game and not all the unity files to run it
 
 ## What is included in the game? 
 The games’ objective is to collect all the gems in the given time! Each gem is worth different, 
